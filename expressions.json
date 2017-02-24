@@ -1,0 +1,61 @@
+{
+  "data" : [
+    {
+      "text" : "Standings?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"standings\""
+        }
+      ]
+    },
+    {
+      "text" : "What are the current Techmo Bowl standings?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"standings\""
+        }
+      ]
+    },
+    {
+      "text" : "What are the scores? ",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"standings\""
+        }
+      ]
+    },
+    {
+      "text" : "What is Techmo Bowl?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"info\""
+        }
+      ]
+    },
+    {
+      "text" : "Who going to win?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"winner\""
+        }
+      ]
+    },
+    {
+      "text" : "Who is playing in Techmo Bowl"
+    },
+    {
+      "text" : "Who is playing in Techmo Bowl?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"players\""
+        }
+      ]
+    }
+  ]
+}

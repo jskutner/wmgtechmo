@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip tecmo.zip tecmo/app.json tecmo/entities/*.json tecmo/actions.json tecmo/stories.json tecmo/expressions.json",
+  "data" : {
+    "name" : "tecmo",
+    "description" : "Stats from Tecmo Bowl",
+    "lang" : "en"
+  }
+}

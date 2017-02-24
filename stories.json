@@ -1,0 +1,80 @@
+{
+  "data" : [
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "Who is playing in Techmo Bowl?",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"players\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-BTG, BC, JG, Kutner, Siegel, Winger, Mike Smith, Nick, Rudy, Scott"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "What is Techmo Bowl?",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"info\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-Tecmo Bowl (Japanese: テクモボウル Hepburn: Tekumo Bōru?) is an American football arcade game developed and released by Tecmo in 1987."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "What are the current Techmo Bowl standings?",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"standings\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template- JG 2-0\nKutner 2-0\nBTG 2-0\nBC 1-1\nJG 1-1\nSiegel 1-1\nWinger 1-1\nMike Smith 0-2\nNick 0-2\nRudy 0-2\nScott 0-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "Who going to win?",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"winner\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-Jeremy Kutner"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

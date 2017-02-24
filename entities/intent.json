@@ -1,0 +1,27 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "intent",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "intent",
+    "values" : [
+      {
+        "value" : "info"
+      },
+      {
+        "value" : "players"
+      },
+      {
+        "value" : "standings"
+      },
+      {
+        "value" : "winner"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

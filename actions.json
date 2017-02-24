@@ -1,0 +1,44 @@
+{
+  "data" : [
+    {
+      "id" : "template- JG 2-0\nKutner 2-0\nBTG 2-0\nBC 1-1\nJG 1-1\nSiegel 1-1\nWinger 1-1\nMike Smith 0-2\nNick 0-2\nRudy 0-2\nScott 0-2",
+      "type" : "template",
+      "template" : " JG 2-0\nKutner 2-0\nBTG 2-0\nBC 1-1\nJG 1-1\nSiegel 1-1\nWinger 1-1\nMike Smith 0-2\nNick 0-2\nRudy 0-2\nScott 0-2"
+    },
+    {
+      "id" : "template-BTG, BC, JG, Kutner, Siegel, Winger, Mike Smith, Nick, Rudy, Scott",
+      "type" : "template",
+      "template" : "BTG, BC, JG, Kutner, Siegel, Winger, Mike Smith, Nick, Rudy, Scott"
+    },
+    {
+      "id" : "template-BTG, BC, JG, Siegel, ",
+      "type" : "template",
+      "template" : "BTG, BC, JG, Siegel, "
+    },
+    {
+      "id" : "template-JG Kutner, BTG, BC, JG, Siegel, Winger, Mike Smith, Nick, Rudy, Scott",
+      "type" : "template",
+      "template" : "JG Kutner, BTG, BC, JG, Siegel, Winger, Mike Smith, Nick, Rudy, Scott"
+    },
+    {
+      "id" : "template-JG, Kutner, BTG, BC, JG, Siegel, Winger, Mike Smith, Nick, Rudy, Scott",
+      "type" : "template",
+      "template" : "JG, Kutner, BTG, BC, JG, Siegel, Winger, Mike Smith, Nick, Rudy, Scott"
+    },
+    {
+      "id" : "template-Jeremy Kutner",
+      "type" : "template",
+      "template" : "Jeremy Kutner"
+    },
+    {
+      "id" : "template-Kutner",
+      "type" : "template",
+      "template" : "Kutner"
+    },
+    {
+      "id" : "template-Tecmo Bowl (Japanese: テクモボウル Hepburn: Tekumo Bōru?) is an American football arcade game developed and released by Tecmo in 1987.",
+      "type" : "template",
+      "template" : "Tecmo Bowl (Japanese: テクモボウル Hepburn: Tekumo Bōru?) is an American football arcade game developed and released by Tecmo in 1987."
+    }
+  ]
+}
